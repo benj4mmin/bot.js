@@ -1,0 +1,23 @@
+{
+  "name": "npm_demo",
+  "version": "1.0.0",
+  "description": "demo app for twitter bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benj4mmin/bot.js.git"
+  },
+  "author": "bb-it",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benj4mmin/bot.js/issues"
+  },
+  "homepage": "https://github.com/benj4mmin/bot.js#readme",
+  "dependencies": {
+    "npm": "^6.3.0",
+    "twit": "^2.2.11"
+  }
+}
